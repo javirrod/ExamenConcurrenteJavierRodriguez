@@ -34,7 +34,7 @@ public class MatriculacionUAX {
         }
 
         public static void main(String[] args) throws InterruptedException {
-            System.out.println("#### Programa de matriculación ####");
+            System.out.println("#### Programa de matriculación con semáforos ####");
             System.out.println("#### Universidad Alfonso X El Sabio ####");
             System.out.println("Asignación de los números de inscripción:");
 

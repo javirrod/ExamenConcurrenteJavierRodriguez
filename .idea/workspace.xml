@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8024468-9346-4b27-b09f-6f43c4b67729" name="Changes" comment="inicio de matriculación con semáforos">
+    <list default="true" id="a8024468-9346-4b27-b09f-6f43c4b67729" name="Changes" comment="ejercicio 2 de matriculación con semáforos">
+      <change afterPath="$PROJECT_DIR$/MatriculacionMonitores/MatriculacionMonitores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MatriculacionMonitores/src/MatriculacionMonPaquete/Matriculacion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MatriculacionSemaforos/src/MatriculacionSemPaquete/MatriculacionUAX.java" beforeDir="false" afterPath="$PROJECT_DIR$/MatriculacionSemaforos/src/MatriculacionSemPaquete/MatriculacionUAX.java" afterDir="false" />
     </list>
@@ -39,6 +42,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/javi_/Documents/GitHub/ExamenConcurrenteJavierRodriguez",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,17 +51,34 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\javi_\Documents\GitHub\ExamenConcurrenteJavierRodriguez" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="MatriculacionMonPaquete" />
       <recent name="paqueteDados" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MatriculacionUAX$Estudiante">
+  <component name="RunManager" selected="Application.Matriculacion">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="paqueteDados.Main" />
       <module name="Dados" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="paqueteDados.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Matriculacion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MatriculacionMonPaquete.Matriculacion" />
+      <module name="MatriculacionMonitores" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MatriculacionMonPaquete.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,6 +114,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Matriculacion" />
         <item itemvalue="Application.MatriculacionUAX$Estudiante" />
         <item itemvalue="Application.MatriculacionUAX$Student" />
         <item itemvalue="Application.Main" />
@@ -107,7 +129,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676631502695</updated>
-      <workItem from="1676631504151" duration="2670000" />
+      <workItem from="1676631504151" duration="3405000" />
     </task>
     <task id="LOCAL-00001" summary="primer commit con ejercicio 1 de Dados">
       <created>1676632393284</created>
@@ -123,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676633161881</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ejercicio 2 de matriculación con semáforos">
+      <created>1676634415488</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676634415488</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +161,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primer commit con ejercicio 1 de Dados" />
     <MESSAGE value="inicio de matriculación con semáforos" />
-    <option name="LAST_COMMIT_MESSAGE" value="inicio de matriculación con semáforos" />
+    <MESSAGE value="ejercicio 2 de matriculación con semáforos" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 2 de matriculación con semáforos" />
   </component>
 </project>
