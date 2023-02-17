@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8024468-9346-4b27-b09f-6f43c4b67729" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dados/Dados.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dados/src/paqueteDados/JuegoDados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dados/src/paqueteDados/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dados/src/paqueteDados/TiradaDado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExamenConcurrenteJavierRodriguez.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="a8024468-9346-4b27-b09f-6f43c4b67729" name="Changes" comment="primer commit con ejercicio 1 de Dados" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,11 +76,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676631502695</updated>
-      <workItem from="1676631504151" duration="638000" />
+      <workItem from="1676631504151" duration="1061000" />
     </task>
+    <task id="LOCAL-00001" summary="primer commit con ejercicio 1 de Dados">
+      <created>1676632393284</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676632393284</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primer commit con ejercicio 1 de Dados" />
+    <option name="LAST_COMMIT_MESSAGE" value="primer commit con ejercicio 1 de Dados" />
   </component>
 </project>
